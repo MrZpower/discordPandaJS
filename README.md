@@ -1,5 +1,6 @@
 [![Discord Bots](https://discordbots.org/api/widget/408697648216932372.svg)](https://discordbots.org/bot/408697648216932372)
 
+[![Run on Repl.it](https://repl.it/badge/github/RisedSky/discordPandaJS)](https://repl.it/github/RisedSky/discordPandaJS)
 
 ## discordPandaJS
 
